@@ -1,0 +1,3 @@
+Upon seeing the challenege description a word is hilighted 'HEAD' and in the hint given also mentioned about the response method so, i dug up some request methods and came to know that HEAD is also a method and used it in BurpSuite.
+Go to BurpSuite and check the http proxy upon loading the link given in the platform and send it to the repeater and now modify the request method to HEAD and flag is obtained.
+and the flag is picoCTF{r3j3ct_th3_du4l1ty_8b13f07}.
