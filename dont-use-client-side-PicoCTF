@@ -1,0 +1,2 @@
+For this challenge as usual i loded the link into the BurpSuite and examined the response for the loading of the page or instead u can open the developer tab by F12 upon the webpaghe and there, solve the looped if statements to reconstruct the flag.
+flag: picoCTF{no_clients_plz_2eb02b45}.
