@@ -1,0 +1,2 @@
+In this challenge as given in the hint the code given in the webpage is bookmarklet.(Boojnarklets are js code snippets upon executing the code in the same webpage console u will find the output).Execute the code snippet in the console of the same webpage.
+flag: picoCTF{p@g3_turn3r_0148cb05}.
