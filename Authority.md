@@ -1,0 +1,2 @@
+Interesting challenge upon inspecting the link in BurpSuite we came across a file secure.js and in that file there are hardcoded username=admin and password=strongPassword098765. Enter the details.
+flag: picoCTF{j5_15_7r4n5p4r3n7_a8788e61}.
