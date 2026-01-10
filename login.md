@@ -1,0 +1,1 @@
+For this challenge open the link and check the elements tab u will find 1 index.js script open that there you will find encoding like 'cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ', decrypt that it is the flag picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}.
