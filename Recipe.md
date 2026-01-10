@@ -1,0 +1,2 @@
+In this challenge Hint says that check the cookies of the session so, enter a test username and password and hit login as expected it will show a message "Have u chekced cookies", go to the elements tab and in Application check the session cookies and u will find an encoded message like 'cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzXzJDODA0MEVGfQ%3D%3D', load it up into decoder and boom.
+flag: picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}.
