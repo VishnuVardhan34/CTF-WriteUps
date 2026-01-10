@@ -1,0 +1,2 @@
+In this challenge open BurpSuite analyze the responses by sending different login details and for 2fa OTP send a random number as expected it is incorrect. Load that POST request of OTP into Repeater to play with different numbers as expected no flag yet, But delete the otp and now send the request, in reponse the flag in generated.
+flag: picoCTF{#0TP_Bypvss_SuCc3$S_3e3ddc76}.
