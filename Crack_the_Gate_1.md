@@ -1,0 +1,2 @@
+In this challenge, upon opening the provided link and inspecting the Elements tab we will come across this encoding '<!-- ABGR: Wnpx - grzcbenel olcnff: hfr urnqre "K-Qri-Npprff: lrf" -->' as mentioned in the hint it is ROT13 encoded, by decrypting that that message is 'X-Dev-Access: yes' now send /login request with the given email ctf-player@picoctf.org and any random password and the server will respond with the flag.
+flag: picoCTF{brut4_f0rc4_125f752d}.
