@@ -1,0 +1,2 @@
+In this challenge follow the hint, the best way to get the website as it is in the online is to use the wget -r command. It will doenload some bunch of files grep "picoCTF" the files, u will find the flag.
+flag: picoCTF{1nsp3ti0n_0f_w3bpag3s_8de925a7}.
