@@ -1,0 +1,2 @@
+Pretty interesting challenge and the way i approached is just open up the link inspect the Elements tab u will find a hidden file structure and just follow the structure and at last u will get the flag, the file structure is "http://saturn.picoctf.net:57269/secret/hidden/superhidden/".
+flag: picoCTF{succ3ss_@h3n1c@10n_51b260fe}.
