@@ -1,0 +1,2 @@
+For this challenge follow the Hint. Load up the link in BurpSuite and send the check.php request to Repeater and modify the IsAdmin cookie value to '1' and Send the request.
+flag: picoCTF{gr4d3_A_c00k13_5d2505be}.
