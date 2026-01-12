@@ -1,0 +1,2 @@
+For this ctf challenge the approach is mentioned in the challange itself 'Robot_Sans', check the robots.txt and you will find two base64 encodings 'ZmxhZzEudHh0' and 'anMvbXlmaWxlLnR4dA==' decode those 'flag1.txt', 'js/myfile.txt' check those files by adding them to URL and you will find the flag.
+flag: picoCTF{Who_D03sN7_L1k5_90B0T5_718c9043}.
