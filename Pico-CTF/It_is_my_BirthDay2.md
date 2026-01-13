@@ -1,0 +1,2 @@
+This is an extremely difficukt challenge and the approach is, Chekc out the SHA-1 collision files by google(only two files that are available to the public about the collision use them), but they both have the same last 1000 bytes md5 vales so change one of their with the original value and upload the files.
+flag: picoCTF{h4ppy_b1rthd4y_2_m3_a3023453}.
