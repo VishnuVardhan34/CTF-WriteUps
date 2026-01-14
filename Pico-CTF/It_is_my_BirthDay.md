@@ -1,0 +1,2 @@
+For this challenge the the approach is straight chekc for the SHA-1 collision documents online i found at [here](https://www.mscs.dal.ca/~selinger/md5collision/) and download the files hello and erase as .pdf format and upload them to the given link.
+flag: picoCTF{c0ngr4ts_u_r_1nv1t3d_c63bbaf}.
