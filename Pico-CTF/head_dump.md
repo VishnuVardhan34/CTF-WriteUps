@@ -1,0 +1,2 @@
+For this challenge hint showed that explore the endpoints so chekc the hilighted text as input to the url in this case that is /api-docs and you will go to a different [page](http://verbal-sleep.picoctf.net:50585/api-docs/#/Diagnosing/get_heapdump) in the last at Diagnosing there is headump go on and click on execute and a file fill will be downloaded grep for the flag.
+flag: picoCTF{Pat!3nt_15_Th3_K3y_12ee0b87}.
