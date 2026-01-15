@@ -1,0 +1,2 @@
+for this challenge load the link and seems like we need to upload some input to the field, first check the Elements tab(Source code), there is a function at last that takes what is a valid input so the input is ''picoCTF', input that and ypu will get the flag.
+flag: picoCTF{succ3ssfully_matchtheregex_8ad436ed}.
