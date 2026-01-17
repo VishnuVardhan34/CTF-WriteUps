@@ -1,0 +1,2 @@
+In this challenge the intent is to teach us about the injection of suck sites, First load the [SITE](https://caas.mars.picoctf.net/) and inspect the site in it there is [link](https://caas.mars.picoctf.net/cowsay/{message}) to another at last contains what message you want to print that is the palce of injection so our simple first payload is $(ls) inplace of {message} use it it will show the listed files and again instaed of ls use cat falg.txt to reveal the flag.
+flag: picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}.
