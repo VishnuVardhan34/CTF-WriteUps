@@ -1,0 +1,2 @@
+This challenge is basic for introducing the SWLite injection commands and so, and there are 5 Rounds which we need to use injection commands explore this [link](https://www.w3schools.com/sql/sql_injection.asp) about first injection command, ROund1 done, for Round 2, after reloading the index.php site no '--' will work for the admin so try using a / */ after admin round 2 is done, For round 3 use admin';, for round 4 admi'||'n'; for round 5 use the same as for the round 4, after all reload the index.php site in that u will find the flag.
+flag: picoCTF{y0u_m4d3_1t_79a0ddc6}.
