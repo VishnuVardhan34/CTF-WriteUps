@@ -1,0 +1,2 @@
+For this challenge we need to explore the commands of 'PostSQL' after logging in with the given username, the usual help command doesn't work instead it shows to type '\h', use it after to show the databases that it has we use the '\d' command and there is one table shownup to print the contents of the table we use the SQL query 'SELECT * FROM flags', the flag is shown
+flag : picoCTF{L3arN_S0m3_5qL_t0d4Y_73b0678f}.
